@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Prompt-to-CAD workflow</title>
+<desc id="desc">A concept diagram showing natural language requirement, AI-assisted parameter interpretation, parametric model, engineering review, and CAD export.</desc>
+<rect width="1200" height="300" fill="#f5f8fd"/>
+<text x="40" y="40" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#172643">Prompt-to-CAD · Conceptual workflow</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="36" y="94" width="202" height="122" rx="14" fill="#e8f0ff" stroke="#9abce8" stroke-width="2"/>
+<text x="137" y="137" font-size="18" font-weight="700" fill="#133a6c">1 · DESIGN BRIEF</text>
+<text x="137" y="165" font-size="15" fill="#385678">Plain-English</text><text x="137" y="187" font-size="15" fill="#385678">requirements</text>
+<rect x="267" y="94" width="202" height="122" rx="14" fill="#edf2ff" stroke="#98a9ee" stroke-width="2"/>
+<text x="368" y="137" font-size="18" font-weight="700" fill="#283978">2 · INTERPRET</text>
+<text x="368" y="165" font-size="15" fill="#49588c">AI-assisted</text><text x="368" y="187" font-size="15" fill="#49588c">parameters</text>
+<rect x="498" y="94" width="202" height="122" rx="14" fill="#e7f4ff" stroke="#83b8e8" stroke-width="2"/>
+<text x="599" y="137" font-size="18" font-weight="700" fill="#154a80">3 · GENERATE</text>
+<text x="599" y="165" font-size="15" fill="#3e6786">Interactive</text><text x="599" y="187" font-size="15" fill="#3e6786">3D mechanism</text>
+<rect x="729" y="94" width="202" height="122" rx="14" fill="#e7f8f4" stroke="#7ebcaa" stroke-width="2"/>
+<text x="830" y="137" font-size="18" font-weight="700" fill="#195f55">4 · REFINE</text>
+<text x="830" y="165" font-size="15" fill="#377369">Inspect &amp; adjust</text><text x="830" y="187" font-size="15" fill="#377369">dimensions</text>
+<rect x="960" y="94" width="202" height="122" rx="14" fill="#f1edff" stroke="#aaa0db" stroke-width="2"/>
+<text x="1061" y="137" font-size="18" font-weight="700" fill="#4d3a80">5 · EXPORT</text>
+<text x="1061" y="165" font-size="15" fill="#655991">CAD handoff</text><text x="1061" y="187" font-size="15" fill="#655991">options</text>
+</g>
+<g stroke="#6e829f" stroke-width="3" fill="none" stroke-linecap="round"><path d="M243 155h19m-7-7 7 7-7 7"/><path d="M474 155h19m-7-7 7 7-7 7"/><path d="M705 155h19m-7-7 7 7-7 7"/><path d="M936 155h19m-7-7 7 7-7 7"/></g>
+<text x="40" y="265" font-family="Arial,sans-serif" font-size="16" fill="#596b82">Illustrative architecture. Production validation and source-code verification are still required.</text>
+</svg>
